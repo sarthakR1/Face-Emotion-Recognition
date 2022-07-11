@@ -1,0 +1,9 @@
+*.zip
+*.pdf
+*.png
+/Data
+/Docs
+/Images
+*.jpg
+LICENSE
+README.md
